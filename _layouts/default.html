@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <title>{{ page.title }}</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -23,6 +24,12 @@
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
           </ul>
         {% endif %}
+        <nav>
+          <ul>
+              <li><a href="/">Home</a></li>
+              <li><a href="/about">About</a></li>
+          </ul>
+        </nav>
       </header>
 
       <section>
