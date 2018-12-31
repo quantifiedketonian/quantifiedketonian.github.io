@@ -1,6 +1,6 @@
-title:            Quantified Ketonian
-description:          'Quantifying my journey through ketosis'
+title: 'Quantified Ketonian'
+description: 'Quantifying my journey through ketosis'
 author:
-  name:           'Justin Mitchell'
-paginate:         5
-sidebar_home_link:  true
+  name: 'Justin Mitchell'
+paginate: 5
+sidebar_home_link: true
