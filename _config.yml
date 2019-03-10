@@ -4,3 +4,5 @@ author:
   name: 'Justin Mitchell'
 paginate: 5
 sidebar_home_link: true
+google_analytics: 'UA-135909020-1'
+momently_url: '//s3-us-west-2.amazonaws.com/momently-static/loader/mA8HAwAqAQ0_momently.js'
