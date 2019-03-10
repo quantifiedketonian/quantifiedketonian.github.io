@@ -49,7 +49,7 @@ the larger the spike).
 
 About 82% of honey's composition is carbohydrates. Every honey is slightly different
 in terms of actual composition, but generally about 38% of the honey is fructose and 
-32% of the honey is glucose, with small amounts of other more complex carbs. [^1]
+32% of the honey is glucose, with small amounts of other more complex carbs.[^1]
 
 I used Nature Nate's Raw and Unfiltered Honey (because it's what Costco sells) and,
 according to my amazing nutrition app, Cronometer, there were 40.5 grams of total 
@@ -62,12 +62,12 @@ fructose content at 19 grams.
 About 67% of syrup's composition is carbohydrates, with 90% (60% of the overall
 composition) of the carbs coming from sugars. Of the total sugar content, almost 
 all of it is sucrose, with about 1-1.5% of total composition coming from glucose and 
-0.5-1% of the total composition coming from fructose. [^2]
+0.5-1% of the total composition coming from fructose.[^2]
 
 I used B&G Foods Pure Maple Syrup (because it's what Harmons sells) and, according to
 Cronometer, there was 44.2 grams of total sugars in the 50 grams I ate (a lot more
-than the standard 67%). If I assume the same ratios for most others syrups' sugar
-composition applies, then about 43 grams would be sucrose with about .5 grams from
+than the standard 60%). If I assume the same ratios for most others syrups' sugar
+composition applies, then about 43 grams would be sucrose with about 0.5 grams from
 fructose and glucose each. After being broken down into sucrose's subcomponents, 
 I would estimate that there's about 22 grams of glucose and fructose each.
 
@@ -79,7 +79,7 @@ after eating the carb in question. Each of these times after should be based on
 when you start eating the carb, with a test at 1 hour, 2 hours, and 3 hours after
 eating. While researching for the article, I did come across some research that 
 leads me to believe that a test at 30-minutes after may be beneficial as well (so
-I'll probably include that for future tests). [^3]
+I'll probably include that for future tests).[^3]
 
 Even though there can be three (or four) tests completed after eating, the most 
 informative value is the 2-hour test. You should be shooting for a value below 
@@ -87,10 +87,12 @@ informative value is the 2-hour test. You should be shooting for a value below
 and a value below 120 mg/dL (6.7 mmol/L) for an optimal reading. 
 
 I took it a step further than what Robb suggested and tested not just blood glucose,
-but also blood ketone levels. If I'm going to consider these s
+but also blood ketone levels. If I'm really trying to understand how my metabolism
+is affected by these sweeteners, then I felt that I needed to understand my ketone
+reactions as well. 
 
-I also took some notes on my reactions. Thankfully neither of them had any severe
-digestive or cognitive concerns (besides a bit of nausea from the Honey)
+I also took some notes on my digestive and cognitive reactions. Thankfully, 
+neither of them had any severe concerns (besides a bit of nausea from the honey).
 
 ## Honey: 
 
@@ -98,7 +100,7 @@ digestive or cognitive concerns (besides a bit of nausea from the Honey)
 adjusting to a low-carb lifestyle, I've really only had a few periods of high
 carb intake (except for the vacations).
 
-So eating that much sucrose and fructose in one fell swoop was shocking to my
+So eating that much glucose and fructose in one fell swoop was shocking to my
 mouth. The first thing that I noticed was a small amount of nausea (that went 
 away in about 10 minutes). Also, the honey didn't taste as good as I remember. 
 It was WAY too sweet.
@@ -114,8 +116,8 @@ the container I measured it in). Even though it was a lot more, in terms of volu
 (or it felt like a lot more), I didn't have any concerns with digestive or 
 cognitive function.
 
-Because this was the second test in two days, I don't think the sucrose and 
-fructose bomb affected me as much. The syrup was also really sweet for me.
+Because this was the second test in two days, I don't think the sucrose bomb 
+affected me as much. The syrup was also really sweet for me.
 
 # The Results:
 
@@ -142,16 +144,17 @@ fructose bomb affected me as much. The syrup was also really sweet for me.
 A quick review of these tables and charts originally led me to the conclusion
 that I could easily eat the maple syrup as a sweetener because of the "tighter"
 control of my sugar and ketone levels (there's much smaller variation between each
-result for syrup, than for the honey). 
+result for the syrup, than for the honey). 
 
 These results are the exact opposite of what I was expecting based on the glucose 
 content of each respective sweetener. Since honey has, on average, nearly 6 grams
-of glucose less than syrup, I was expecting it to have a reduced response relative
+of glucose less than syrup, I was expecting it to cause a reduced response relative
 to the syrup, but the opposite was the case.
 
-After I reviewed this next chart, I came to a different conclusion. I learned that I
-should not only NOT eat the syrup regularly, but that I should not eat either of
-these sweeteners because of how much variability they both cause in my GKI.
+However, after I reviewed this next chart, I came to a different conclusion. I 
+learned that I should not only NOT eat the syrup regularly, but that I should not 
+eat either of these sweeteners because of how much variability they both cause in 
+my GKI.
 
 ![Comparative Chart of the GKI Effects of the Two Sweeteners]({{site.url}}/assets/images/ctt-hs-gki.png)
 
@@ -161,6 +164,6 @@ me to feel comfortable with the effects that they have on me.
 
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/Honey#Nutrition) and [this other honey website](http://www.chm.bris.ac.uk/webprojects2001/loveridge/index-page3.html) both discuss the chemical breakdown of honey and have comparative numbers for the proportion of glucose and fructose in honey.
 
-[^2]: Both [Wikipedia](https://en.wikipedia.org/wiki/Maple_syrup#Nutrition_and_food_characteristics)and [this research article](http://www.uvm.edu/~pmrc/Chemical%20composition%20of%20pure%20maple%20syrup%20-%20van%20den%20Berg%20et%20al%202015.pdf) discuss the levels of each kind of sugar that would be expected in pure maple syrup. Unlike the honey sources, the study here shows that it is quite variable based on grade and manufacturer.
+[^2]: Both [Wikipedia](https://en.wikipedia.org/wiki/Maple_syrup#Nutrition_and_food_characteristics) and [this research article](http://www.uvm.edu/~pmrc/Chemical%20composition%20of%20pure%20maple%20syrup%20-%20van%20den%20Berg%20et%20al%202015.pdf) discuss the levels of each kind of sugar that would be expected in pure maple syrup. Unlike the honey sources, the study here shows that it is quite variable based on grade and manufacturer.
 
 [^3]: [This article](https://www.lchf-rd.com/2018/11/26/when-normal-fasting-blood-glucose-results-arent-necessarily-fine/) shows that the extra test at 30 minutes provides some better differentiation around between the normal (healthy) glucose response pattern and several abnormal patterns that may appear to be normal if you only use the standard four tests.
