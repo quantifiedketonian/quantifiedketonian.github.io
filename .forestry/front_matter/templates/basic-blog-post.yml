@@ -1,0 +1,17 @@
+---
+label: Basic Blog Post
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: Author
+  description: The first and last name of the person who wrote the post.
+  default: Justin Mitchell
+- type: text
+  label: Layout
+  name: layout
+  hidden: true
+  config:
+    required: true
+  description: The layout that will be used for blog posts
+  default: post
