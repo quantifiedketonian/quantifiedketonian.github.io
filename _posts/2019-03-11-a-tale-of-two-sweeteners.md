@@ -3,7 +3,7 @@ layout: post
 title: A Tale of Two Sweeteners - The "Natural" Sweeteners and My Carb Tolerance Test
 ---
 
-#The Background:
+# The Background:
 
 I've now been on the ketogenic diet for two months (with a few small upticks of
 carbs due to travel; it's much harder for me to follow keto while traveling than I 
@@ -30,7 +30,7 @@ my life every once in a while (like when I want to make delicious keto pumpkin
 waffles and the artificially sweetened maple flavored water just won't cut it that 
 day). 
 
-#The Chemistry:
+# The Chemistry:
 
 As I'm not a chemistry expert, I hope someone will correct any mistakes I make.
 
@@ -44,7 +44,7 @@ that is broken down into equal parts of glucose and fructose.
 Accordingly, I would expect that the glucose is the main driver of the blood sugar
 spike (i.e. the higher the absolute glucose content, the larger the spike)
 
-##Honey: 
+## Honey: 
 About 82% of honey's composition is carbohydrates. Every honey is slightly different
 in terms of actual composition, but generally about 38% of the honey is fructose and 
 32% of the honey is glucose, with small amounts of other more complex carbs. 
@@ -55,7 +55,7 @@ sugars in the 50 grams I ate (a little less than the standard 82% seen in most
 honeys). My calculated guess would put the glucose content at 16 grams and the
 fructose content at 19 grams.  
 
-##Syrup:
+## Syrup:
 About 67% of syrup's composition is carbohydrates, with 90% (60% of the overall
 composition) of the carbs coming from sugars. Of the total sugar content, almost 
 all of it is sucrose, with about 1-1.5% of total composition coming from glucose and 
@@ -68,7 +68,7 @@ composition applies, then about 43 grams would be sucrose with about .5 grams fr
 fructose and glucose each. After being broken down into sucrose's subcomponents, 
 I would estimate that there's about 22 grams of glucose and fructose each.
 
-#The Experiment:
+# The Experiment:
 
 So according to Robb Wolfe, you should test your glucose 4 times over the course of 
 a carb tolerance test: once before (a baseline fasting measure) and three times 
@@ -89,7 +89,7 @@ but also blood ketone levels. If I'm going to consider these s
 I also took some notes on my reactions. Thankfully neither of them had any severe
 digestive or cognitive concerns (besides a bit of nausea from the Honey)
 
-##Honey: 
+## Honey: 
 
 50 grams of honey isn't very much because it's so dense. Even so, since
 adjusting to a low-carb lifestyle, I've really only had a few periods of high
@@ -100,7 +100,7 @@ mouth. The first thing that I noticed was a small amount of nausea (that went
 away in about 10 minutes). Also, the honey didn't taste as good as I remember. 
 It was WAY too sweet.
 
-##Syrup:
+## Syrup:
 
 Because of some Sunday morning personal matters, I wasn't able to start the 
 syrup experiment until almost 1 pm, so there may be a small confounding issue
@@ -114,9 +114,9 @@ cognitive function.
 Because this was the second test in two days, I don't think the sucrose and 
 fructose bomb affected me as much. The syrup was also really sweet for me.
 
-#The Results:
+# The Results:
 
-##Honey:
+## Honey:
 | Time (Relative to Food) | Glucose (mg/dL) | Glucose (mmol/L) | Ketones (mmol/L) | GKI |
 |:-----------------------:|-----------------|------------------|------------------|-----|
 | 0 | 82 | 4.6 | 1.7 | 2.7 |
@@ -124,7 +124,7 @@ fructose bomb affected me as much. The syrup was also really sweet for me.
 | 120 | 112 | 6.2 | 0.9 | 6.9 |
 | 180 | 87 | 4.8 | 1.3 | 3.7 |
 
-##Syrup:
+## Syrup:
 | Time (Relative to Food) | Glucose (mg/dL) | Glucose (mmol/L) | Ketones (mmol/L) | GKI |
 |:-----------------------:|-----------------|------------------|------------------|------|
 | 0 | 86 | 4.8 | 1.2 | 4.0 |
