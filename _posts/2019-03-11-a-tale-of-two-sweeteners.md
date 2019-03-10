@@ -118,7 +118,7 @@ fructose bomb affected me as much. The syrup was also really sweet for me.
 
 ## Honey:
 | Time (Relative to Food) | Glucose (mg/dL) | Glucose (mmol/L) | Ketones (mmol/L) | GKI |
-|:-----------------------:|-----------------|------------------|------------------|-----|
+| :---: | --- | --- | --- | --- |
 | 0 | 82 | 4.6 | 1.7 | 2.7 |
 | 60 | 160 | 8.9 | 1.2 | 7.4 |
 | 120 | 112 | 6.2 | 0.9 | 6.9 |
