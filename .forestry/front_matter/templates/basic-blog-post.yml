@@ -31,4 +31,5 @@ fields:
     date_format: MM-DD-YYY
     required: true
 pages:
+- _posts/one-month-in.md
 - _posts/2019-03-11-a-tale-of-two-sweeteners.md
