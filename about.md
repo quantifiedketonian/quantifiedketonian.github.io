@@ -21,3 +21,5 @@ I decided that I would try my personal lifestyle interventions again to see if I
 As I did more research this time around though, I came across the Keto lifestyle (more specifically, the 2 Keto Dudes podcast) and decided this is where I needed to go (since they had both cured their diabetes with diet alone, as they like to say). After digging into the research, I decided it was time to transition to a more Keto way of life (man, it's good to eat cheese again). 
 
 And this blog is my way of documenting my journey through ketosis, sprinkled with some personal health experiments along the way.
+
+I am not a medical expert. I am not a ketogenic expert. And I am not a biology/chemistry/scientific expert. I'm just a guy trying to hack my way to better health.
