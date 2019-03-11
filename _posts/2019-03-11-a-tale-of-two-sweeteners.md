@@ -1,8 +1,9 @@
 ---
 layout: post
 title: A Tale of Two Sweeteners - The "Natural" Sweeteners and My Carb Tolerance Test
----
+author: Justin Mitchell
 
+---
 # The Background:
 
 I've now been on the ketogenic diet for two months (with a few small upticks of
