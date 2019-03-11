@@ -8,6 +8,8 @@ fields:
   label: Author
   description: The first and last name of the person who wrote the post.
   default: Justin Mitchell
+  config:
+    required: true
 - type: text
   label: Layout
   name: layout
@@ -16,3 +18,9 @@ fields:
     required: true
   description: The layout that will be used for blog posts
   default: post
+- type: text
+  name: title
+  label: Title
+  description: The title of the article
+  config:
+    required: true
