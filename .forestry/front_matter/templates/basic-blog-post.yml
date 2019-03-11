@@ -1,7 +1,6 @@
 ---
 label: Basic Blog Post
 hide_body: false
-display_field: author
 fields:
 - type: text
   name: author
@@ -23,6 +22,13 @@ fields:
   label: Title
   description: The title of the article
   config:
+    required: true
+- type: datetime
+  label: Posted Date
+  name: posted_date
+  description: The day the article was posted
+  config:
+    date_format: MM-DD-YYY
     required: true
 pages:
 - _posts/2019-03-11-a-tale-of-two-sweeteners.md
