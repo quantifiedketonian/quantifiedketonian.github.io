@@ -12,9 +12,9 @@ My journey to the ketogenic diet started several years ago when I was in graduat
 
 This led me to start on the Paleo diet the following year (after some craziness around grad school, a new baby, and moving to another state were all done) and to also start my self-tracking journey. I started weighing myself daily, measuring fasting glucose regularly, and really dialing in on my health numbers (got a bunch of labs done in a few months). I was starting to feel great. So I stopped tracking and just maintained a mostly Paleo lifestyle for a few years (I didn't even weigh myself very often). 
 
-Fast forward to a few months ago... During that time, we moved closer to family, had another girl, bought a house, and started working ridiculous hours at a startup. 
+Fast forward to a few months ago... During that time, we moved closer to family, had another girl, bought a house, and I started working ridiculous hours at a startup. 
 
-As of a few months ago, my wife and I had been doing a mostly Paleo lifestyle for nearly 4 years, but I had somehow gained twenty pounds and all of it (and some) was fat. I was not in a healthy. Looking back, I think that moving closer to family had led to much more unhealthy eating than I thought (we were probably only like 45% Paleo, even though I thought we were 80% Paleo). 
+As of a few months ago, my wife and I had been doing a mostly Paleo lifestyle for nearly 4 years, but I had somehow gained twenty pounds and all of it (and some) was fat. I was not in a healthy space. Looking back, I think that moving closer to family had led to much more unhealthy eating than I thought (we were probably only like 45% Paleo, even though I thought we were 80% Paleo). 
 
 I decided that I would try my personal lifestyle interventions again to see if I could fix the problem. I started biking to work and we started really dialing in our meals to meet the Paleo "requirements".  
 
