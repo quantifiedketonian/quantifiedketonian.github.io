@@ -14,7 +14,7 @@ This led me to start on the Paleo diet the following year (after some craziness 
 
 Fast forward to a few months ago... During that time, we moved closer to family, had another girl, bought a house, and I started working ridiculous hours at a startup. 
 
-As of a few months ago, my wife and I had been doing a mostly Paleo lifestyle for nearly 4 years, but I had somehow gained twenty pounds and all of it (and some) was fat. I was not in a healthy space. Looking back, I think that moving closer to family had led to much more unhealthy eating than I thought (we were probably only like 45% Paleo, even though I thought we were 80% Paleo). 
+As of a few months ago, my wife and I had been doing a mostly Paleo lifestyle for nearly 4 years, but I had somehow gained twenty pounds and all of it (and some) was fat. I was not in a healthy space. Looking back, I think that moving closer to family had led to much more unhealthy eating than I thought. We were probably only like 45% Paleo, even though I thought we were 80% Paleo (restaraunt food always gets you). 
 
 I decided that I would try my personal lifestyle interventions again to see if I could fix the problem. I started biking to work and we started really dialing in our meals to meet the Paleo "requirements".  
 
