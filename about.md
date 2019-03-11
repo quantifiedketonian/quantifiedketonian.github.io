@@ -6,7 +6,7 @@ sidebar_link: true
 ---
 My name is Justin Mitchell and I'm the man behind the blog.
 
-I started this blog as a way to document my journey through ketosis as I attempt to fix my "undiagnosed" deranged metabolism.
+I started this blog as a way to document my journey through ketosis as I attempt to fix my "undiagnosed" deranged metabolism. I am not a medical expert. I am not a ketogenic expert. And I am not a biology/chemistry/scientific expert. I'm just a guy trying to hack my way to better health.
 
 My journey to the ketogenic diet started several years ago when I was in graduate school at the University of Michigan (Go Blue!) and I got my 23andMe results (before the FDA changed everything). When I got my results, I discovered that I had 2 times the risk of getting Type 2 Diabetes as the average population. As a healthy 20-something, I freaked out for a few days (because I was studying the public health side of Type 2 Diabetes at school and had learned about the biology and physiology of the disease in undergrad). So I began my journey down the rabbit hole of how to reduce my risk of diabetes in non-genetic ways (since that was already set in stone).
 
@@ -21,5 +21,3 @@ I decided that I would try my personal lifestyle interventions again to see if I
 As I did more research this time around though, I came across the Keto lifestyle (more specifically, the 2 Keto Dudes podcast) and decided this is where I needed to go (since they had both cured their diabetes with diet alone, as they like to say). After digging into the research, I decided it was time to transition to a more Keto way of life (man, it's good to eat cheese again). 
 
 And this blog is my way of documenting my journey through ketosis, sprinkled with some personal health experiments along the way.
-
-I am not a medical expert. I am not a ketogenic expert. And I am not a biology/chemistry/scientific expert. I'm just a guy trying to hack my way to better health.
