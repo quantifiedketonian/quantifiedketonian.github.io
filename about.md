@@ -18,6 +18,6 @@ As of a few months ago, my wife and I had been doing a mostly Paleo lifestyle fo
 
 I decided that I would try my personal lifestyle interventions again to see if I could fix the problem. I started biking to work and we started really dialing in our meals to meet the Paleo "requirements".  
 
-As I did more research this time around though, I came across the Keto lifestyle (more specifically, the 2 Keto Dudes podcast) and decided this is where I needed to go (since they had both cured their diabetes with diet alone, as they like to say). After digging into the research, I decided it was time to transition to a more Keto way of life (man, it's good to eat cheese again). 
+As I did more research this time around though, I came across the ketogenic lifestyle (more specifically, the 2 Keto Dudes podcast) and decided this is where I needed to go (since they had both cured their diabetes with diet alone, as they like to say). After digging into the research, I decided it was time to transition to a more Keto way of life (man, it's good to eat cheese again). 
 
 And this blog is my way of documenting my journey through ketosis, sprinkled with some personal health experiments along the way.
