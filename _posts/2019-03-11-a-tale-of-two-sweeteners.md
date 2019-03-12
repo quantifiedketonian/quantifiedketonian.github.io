@@ -11,15 +11,15 @@ I've now been on the ketogenic diet for two months (with a few small upticks of 
 
 That said, as I've mentioned on my about page, I started doing keto out of fear of getting diabetes. So since I'm fat adapted, I figured it was time to start doing some of the carb tolerance tests that Robb Wolf talks about in his book. As my first published experiment, I wanted to understand how two common "paleo" sweeteners affect my metabolic state.
 
-Honey and pure maple syrup (none of that fake crap) were staples in our home during our paleo time. My wife loves maple syrup more than anything (sometimes even more than she loves me, I think) and I used to eat spoonfuls of honey straight from the container If it was in a squeeze container, I didn't even use the spoon; straight into the mouth, but no sucking on the container like they suck on the drinking fountains in Parks and Rec, that would be gross. So switching to the keto way of life was a bit harder than I expected.
+Honey and pure maple syrup (none of that fake crap) were staples in our home during our paleo time. My wife loves maple syrup more than anything (sometimes even more than she loves me, I think) and I used to eat spoonfuls of honey straight from the container. If it was in a squeeze container, I didn't even use the spoon; I squeezed it directly into my mouth (no sucking on the container like they suck on the drinking fountains in Parks and Rec, that would be gross) So switching to the keto way of life was a bit harder than I expected.
 
-Since I have a higher than average likelihood of getting type 2 diabetes, I always worry about adding any carb-heavy substance back into my diet. So I wanted to know what would happen to my body if I brought a "non-keto" sweetener back into my life every once in a while (like when I want to make delicious keto pumpkin waffles and the artificially sweetened maple flavored water just won't cut it that day).
+Since I have a higher than average likelihood of getting type 2 diabetes, I always worry about adding any carb-heavy substance back into my diet. So I wanted to know what would happen to my body if I brought a "non-keto" sweetener back into my life every once in a while (like when I want to make delicious keto pumpkin waffles and the artificially sweetened maple flavored water just won't cut it).
 
 # The Chemistry:
 
 As I'm not a chemistry expert, I hope someone will correct any mistakes I make.
 
-I've read and heard from many folks that glucose causes an increase in circulating insulin in your blood (yet to test the insulinogenic effects on me) and that fructose does as well, but fructose is impossible to breakdown with insulin so your body shuttles it into the liver and breaks it down to transform it into glucose (if needed) or, more likely, stores it in the fat cells. The third relevant chemical is sucrose, a complex carb that is broken down into equal parts of glucose and fructose.
+I've read and heard from many folks that glucose causes an increase in circulating insulin in your blood (yet to test the insulinogenic effects on me) and that fructose does as well, but fructose is impossible to breakdown with insulin so your body shuttles it into the liver and breaks it down to transform it into glucose (if needed) or, more likely, stores it in the fat cells. The third relevant carbohydrate molecule is sucrose, a complex carb that is broken down into equal parts of glucose and fructose.
 
 Based on this limited chemistry knowledge, I would expect that the glucose is the main driver of my blood sugar spikes (i.e. the higher the absolute glucose content, the larger the spike).
 
@@ -37,7 +37,7 @@ I used B&G Foods Pure Maple Syrup (because it's what Harmons sells) and, accordi
 
 # The Experiment:
 
-So according to Robb Wolf, you should test your glucose 4 times over the course of a carb tolerance test: once before (a baseline fasting measure) and three times after eating the carb in question. Each of these times after should be based on when you start eating the carb, with a test at 1 hour, 2 hours, and 3 hours after eating. While researching for the article, I did come across some research that leads me to believe that a test at 30-minutes after may be beneficial as well (so I'll probably include that for future tests).[^3]
+So according to Robb Wolf, you should test your glucose 4 times over the course of a carb tolerance test: once before (a baseline fasting measure) and three times after eating the carb in question. Each of the measurements after eating should be based on when you start eating the carb, with a test at 1 hour, 2 hours, and 3 hours after eating. While researching for the article, I did come across some research that leads me to believe that a test at 30-minutes after may be beneficial as well (so I'll probably include that for future tests).[^3]
 
 Even though there can be three (or four) tests completed after eating, the most informative value is the 2-hour test. You should be shooting for a value below 140 mg/dL (7.8 mmol/L) for a normal reading (read: not metabolically deranged) and a value below 120 mg/dL (6.7 mmol/L) for an optimal reading.
 
@@ -52,13 +52,12 @@ neither of them had any severe concerns (besides a bit of nausea from the honey)
 adjusting to a low-carb lifestyle, I've really only had a few periods of high
 carb intake (except for the vacations).
 
-So eating that much glucose and fructose in one fell swoop was shocking to my mouth. The first thing that I noticed was a small amount of nausea (that went away in about 10 minutes). Also, the honey didn't taste as good as I remember. It was WAY too sweet.
+Eating that much glucose and fructose in one fell swoop was shocking to my mouth. The first thing that I noticed was a small amount of nausea (that went away in about 10 minutes). Also, the honey didn't taste as good as I remember. It was WAY too sweet.
 
 ## Syrup:
 
 Because of some Sunday morning personal matters, I wasn't able to start the
-syrup experiment until almost 1 pm, so there may be a small confounding issue
-here.
+syrup experiment until almost 1 pm (I was still in a fasted state when I started), so there may be a small confounding issue here.
 
 50 grams of syrup felt like a lot more (and it was a bit harder to get out of the container I measured it in). Even though it was a lot more, in terms of volume (or it felt like a lot more), I didn't have any concerns with digestive or cognitive function.
 
@@ -95,9 +94,7 @@ However, after I reviewed this next chart, I came to a different conclusion. I l
 
 ![Comparative Chart of the GKI Effects of the Two Sweeteners]({{site.url}}/assets/images/ctt-hs-gki.png)
 
-Based on these results (and there's not a statistical basis to this yet), I have no
-intention of eating either of these regularly. They cause too much variation for
-me to feel comfortable with the effects that they have on me.
+Based on these results (and there's not a statistical basis to this yet), I have no intention of eating either of these regularly. They cause too much variation for me to feel comfortable with the effects that they have on me.
 
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/Honey#Nutrition) and [this other honey website](http://www.chm.bris.ac.uk/webprojects2001/loveridge/index-page3.html) both discuss the chemical breakdown of honey and have comparative numbers for the proportion of glucose and fructose in honey.
 
