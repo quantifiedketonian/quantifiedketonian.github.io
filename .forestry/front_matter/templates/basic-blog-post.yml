@@ -21,6 +21,12 @@ fields:
   label: Author
   description: The full name (with an underscore) of the author.
   default: justin_mitchell
+- type: datetime
+  label: Posted Date
+  name: posted_date
+  description: The date that the article was posted
+  config:
+    required: true
 pages:
 - _posts/one-month-in.md
 - _posts/2019-03-11-a-tale-of-two-sweeteners.md
