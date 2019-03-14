@@ -1,7 +1,6 @@
 ---
 label: Basic Blog Post
 hide_body: false
-display_field: author
 fields:
 - type: text
   label: Layout
@@ -26,6 +25,12 @@ fields:
   label: Posted Date
   name: posted_date
   description: The date that the article was posted
+  config:
+    required: true
+- type: text
+  name: title
+  label: Title
+  description: The title of the post
   config:
     required: true
 pages:
