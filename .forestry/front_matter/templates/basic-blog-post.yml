@@ -1,6 +1,7 @@
 ---
 label: Basic Blog Post
 hide_body: false
+display_field: author
 fields:
 - type: text
   label: Layout
