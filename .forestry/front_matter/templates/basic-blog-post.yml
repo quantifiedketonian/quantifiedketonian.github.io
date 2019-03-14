@@ -3,13 +3,6 @@ label: Basic Blog Post
 hide_body: false
 fields:
 - type: text
-  name: author
-  label: Author
-  description: The first and last name of the person who wrote the post.
-  default: Justin Mitchell
-  config:
-    required: true
-- type: text
   label: Layout
   name: layout
   hidden: true
@@ -17,19 +10,17 @@ fields:
     required: true
   description: The layout that will be used for blog posts
   default: post
-- type: text
-  name: title
-  label: Title
-  description: The title of the article
+- type: select
+  name: author
   config:
+    source:
+      type: simple
     required: true
-- type: datetime
-  label: Posted Date
-  name: posted_date
-  description: The day the article was posted
-  config:
-    date_format: MM-DD-YYY
-    required: true
+    options:
+    - justin_mitchell
+  label: Author
+  description: The full name (with an underscore) of the author.
+  default: justin_mitchell
 pages:
 - _posts/one-month-in.md
 - _posts/2019-03-11-a-tale-of-two-sweeteners.md
