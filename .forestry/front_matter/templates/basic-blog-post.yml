@@ -35,6 +35,6 @@ fields:
   config:
     required: true
 pages:
-- _posts/running-your-own-self-experiment-part-1-defining-the-problem.md
+- _posts/2019-03-16-running-your-own-self-experiment-part-1-defining-the-problem.md
 - _posts/one-month-in.md
 - _posts/2019-03-11-a-tale-of-two-sweeteners.md
