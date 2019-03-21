@@ -1,9 +1,8 @@
 ---
 author: justin_mitchell
-posted_date: 2019-03-18 06:00:00 +0000
-title: 'Running your own self-experiment: Part 1 - Defining the Problem'
+title: Running your own self-experiment: Part 1 - Defining the Problem
 date: 2019-03-16 22:32:45 +0000
-layout: ''
+layout: post
 
 ---
 The hardest part of running any self experiment is deciding what to focus on for an experiment. 
