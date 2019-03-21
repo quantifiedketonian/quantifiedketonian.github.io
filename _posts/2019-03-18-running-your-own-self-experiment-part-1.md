@@ -1,7 +1,7 @@
 ---
 author: justin_mitchell
 title: Running your own self-experiment: Part 1 - Defining the Problem
-date: 2019-03-16 22:32:45 +0000
+date: 2019-03-18 06:00:00 +0000
 layout: post
 
 ---
