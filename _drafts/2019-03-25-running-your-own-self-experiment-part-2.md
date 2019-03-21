@@ -6,4 +6,4 @@ layout: post
 
 ---
 
-After
+Once you've defined the problem and know how and what will be measured, 
