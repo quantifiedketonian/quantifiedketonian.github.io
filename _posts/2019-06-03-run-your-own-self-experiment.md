@@ -85,6 +85,8 @@ After you've finished the experiment, you can easily assess if there was an effe
 
 Another key thing about assessing the effect for self-experiments is the importance of not doing too many statistical tests on one set of data. I'm not a statistical expert, but it's fairly intuitive that if you do 20 statistical tests on one set of data while shooting for a 1/20 chance of refuting the no-intervention approach, you're pretty likely to have one test that appears to show significance. Statistical experts will say you should use the Bonferroni correction or something like that. I don't want to spend the time to learn that so I just use a Bayesian approach to my analyses and update my beliefs about if one intervention or another is having an effect. 
 
+As a general rule, I like to make sure that my experiment results are reproducible. I have found that the simplest way to do this is to use a Jupyter notebook. 
+
 Once you understand the effect, then it's up to you what to do with that knowledge.
 
 [^1]: My personal opinion is that you aren't missing anything if you never watched it. This quote is basically the only quality part of the movie. You can get a decent synopsis of the movie on [IMDB](https://www.imdb.com/title/tt0358082/).
