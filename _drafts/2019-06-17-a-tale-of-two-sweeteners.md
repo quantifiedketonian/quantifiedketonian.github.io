@@ -2,7 +2,7 @@
 layout: post
 title: A Tale of Two Sweeteners - The "Natural" Sweeteners and My Carb Tolerance Test
 author: justin_mitchell
-posted_date: 2019-03-11 06:00:00 +0000
+posted_date: 2019-06-17 06:00:00 +0000
 
 ---
 # The Background:

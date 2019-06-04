@@ -22,7 +22,6 @@ Another interesting thing about glucose is that a morning spot check of fasting 
 
 I've laid out several ideas for experiments that I plan to do over the next few months. Some of them are more exciting to me than others. As I complete and post the experiments, I will update this page with links to the posts. 
 
-* Oxaloacetate supplementation for glucose management
 * Strength training effects on next morning's glucose
 * Following my DayTwo diet recommendations
 * Ketogenic diet vs. the Standard American Diet
@@ -31,6 +30,8 @@ I've laid out several ideas for experiments that I plan to do over the next few 
 * HbA1c vs. 3-month morning fasting glucose (do they match up?)
 * Home HbA1c tests vs. in-lab values
 * Sleep and glucose: does it have any effect (for me)? 
+* Now vs. Then: Glucose over the years
 * Cinnamon supplementation for glucose management
+* Oxaloacetate supplementation for glucose management
 
 If you have any other glucose-related experiments that you would like me to complete before the end of 2019, please let me know.

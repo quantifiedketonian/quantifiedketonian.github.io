@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Home vs. Lab: Do EverlyWell and LetsGetChecked match up with LabCorp for HbA1c?
+title: Home vs. Lab: Do EverlyWell and LetsGetChecked match up with a lab draw for HbA1c?
 author: justin_mitchell
 posted_date: 2019-07-01 06:00:00 +0000
 
 ---
 
-Everyone believes that the new fangled home labs tests can't be as accurate as the in-lab testing. As part of my HbA1c testing for the HbA1c vs Fasting Glucose post, I decided that I wanted to know if a one-time comparison of home HbA1c testing companies would help me understand the accuracy of the options available. So I did a quick experiment that would in no way be comparable to a scientific research project. 
+Everyone believes that the new fangled home labs tests can't be as accurate as the in-lab testing. As part of my HbA1c testing for the HbA1c vs. Fasting Glucose post, I decided that I wanted to know if a one-time comparison of home HbA1c testing companies would help me understand the accuracy of the options available. So I did a quick experiment that would in no way be comparable to a scientific research project. 
 
 # The Contenders
 
@@ -38,5 +38,20 @@ I performed all of the draws on the same day, which meant that I had to wait unt
 
 ## The Wait
 
+As you might expect, since I had to ship them to a lab for processing, the two home-based tests took the longest time.
+
+1. RequestATest - This result was the quickest of the three. 
+2. EverlyWell - This test had the least amount of updates on the shipping back. I didn't hear anything until it arrived at the lab (which took XXXX days). However, once I arrived it was processed in less than 24 hours.
+3. LetsGetChecked - This test was the slowest. It arrived at the lab very quickly, but I didn't hear anything until almost ten days later after I sent an email asking where my result was. At that point, I received a phone call from a nurse within a few hours and was given an explanation about my result. 
 
 # The Outcome
+
+Each test gave me a slightly different number as my result. All three of them were fairly close, but not equal.
+
+1. RequestATest - 5.4
+2. EverlyWell - 5.3
+3. LetsGetChecked - 5.2
+
+If we assume that that lab draw is the most accurate and the others should be compared to it (something that seems reasonable to most people), then EverlyWell is only 18.5% away from the "truth" and LetsGetChecked is 37% away from the truth. However, based on last week's article on HbA1c vs. morning fasting glucose, I'm not confident that we should assume that to be the case. 
+
+Also since the prices were (when I ordered them) all within $20 of each other, I'm not sure I feel a strong opinion to continue to use lab draws for this test. 

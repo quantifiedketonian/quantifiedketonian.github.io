@@ -9,10 +9,10 @@ Whenever I talk about quantified self and my personal health experiments, somebo
 
 I've found that answering this question is not as easy as I would have expected. For any great personal experiment, there are four  steps:
 
-1. "Seeing a need"
-2. Planning the experiment
-3. Doing the experiment
-4. Assessing the effect
+1. **"Seeing a need"**
+2. **Planning the experiment**
+3. **Doing the experiment**
+4. **Assessing the effect**
 
 Let's start at the beginning: 
 
@@ -68,9 +68,9 @@ One of the key concerns with the third question is do you need to have a runout 
 
 1. When I started the keto diet, I knew that it takes two to six weeks to become "fat-adapted" and that I probably wouldn't be able to measure the effect of keto on my body fat percentage until at least that long. 
 2. For each of the inputs and outputs, I was not very diligent at measuring regularly, but I knew that it wouldn't be difficult. 
-	1. Net carbs: I set a goal to document all of my meals in Cronometer. It's hard when you are at social gatherings, but otherwise pretty simple to do a couple times every day. 
-	2. Glucose and ketone levels: Now that I have a KetoMojo meter, I could track both after poking my finger once so I placed it in my bathroom and have made it part of my morning routine. 
-	3. Body fat percentage and weight: Thanks to having my Withings scale in the bathroom, this has been a part of my routine as well (as long as I keep it charged).
+	1. **Net carbs**: I set a goal to document all of my meals in Cronometer. It's hard when you are at social gatherings, but otherwise pretty simple to do a couple times every day. 
+	2. **Glucose and ketone levels**: Now that I have a KetoMojo meter, I could track both after poking my finger once so I placed it in my bathroom and have made it part of my morning routine. 
+	3. **Body fat percentage and weight**: Thanks to having my Withings scale in the bathroom, this has been a part of my routine as well (as long as I keep it charged).
 3. I knew that the biggest confounding factor would be exercise so I made a plan to be as consistent as possible with my exercise. I also planned to get at least 2 months of data so I could actually update my beliefs about the ketogenic diet's effect on my body composition and control for weekend variables and travel.
 
 # 3. Doing the experiment
