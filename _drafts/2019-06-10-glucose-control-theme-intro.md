@@ -27,11 +27,14 @@ I've laid out several ideas for experiments that I plan to do over the next few 
 * Ketogenic diet vs. the Standard American Diet
 * Paleo Sweeteners and the Carb Tolerance Test
 * Robb Wolf's Carb Tolerance Test
+* Get all the tests: HOMA-IR, hs-CRP, Fasting Insulin
+* Are there any food sensitivities that can cause problems?
 * HbA1c vs. 3-month morning fasting glucose (do they match up?)
 * Home HbA1c tests vs. in-lab values
 * Sleep and glucose: does it have any effect (for me)? 
 * Now vs. Then: Glucose over the years
-* Cinnamon supplementation for glucose management
 * Oxaloacetate supplementation for glucose management
+* Natural supplements for glucose management: Cinnamon, Apple Cider Vinegar, Lemon
+* Strength Training, Cardio, and HIIT: Does exercise affect the following morning's glucose?
 
 If you have any other glucose-related experiments that you would like me to complete before the end of 2019, please let me know.

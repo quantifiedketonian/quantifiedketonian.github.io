@@ -85,7 +85,7 @@ After you've finished the experiment, you can easily assess if there was an effe
 
 Another key thing about assessing the effect for self-experiments is the importance of not doing too many statistical tests on one set of data. I'm not a statistical expert, but it's fairly intuitive that if you do 20 statistical tests on one set of data while shooting for a 1/20 chance of refuting the no-intervention approach, you're pretty likely to have one test that appears to show significance. Statistical experts will say you should use the Bonferroni correction or something like that. I don't want to spend the time to learn that so I just use a Bayesian approach to my analyses and update my beliefs about if one intervention or another is having an effect. 
 
-As a general rule, I like to make sure that my experiment results are reproducible. I have found that the simplest way to do this is to use a Jupyter notebook. 
+As a general rule, I like to make sure that my experiment results are reproducible. I have found that the simplest way to do this is to use a [Jupyter notebook](https://jupyter.org/). 
 
 Once you understand the effect, then it's up to you what to do with that knowledge.
 
