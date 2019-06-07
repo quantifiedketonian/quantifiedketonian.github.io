@@ -18,7 +18,7 @@ Additionally, there has been some research in the last few years that has actual
 
 # Calculated HbA1c from Fasting Glucose
 
-My average fasting glucose over the prior three months was 98. Although your fasting glucose measurements don't fully reflect the expected value of HbA1c, there's a simple calculation from a diabetes research journal that shows how to calculate average glucose from A1c.[^1] I flipped the formula and used it to calculate an estimated A1c based on my average fasting glucose. 
+My average fasting glucose over the prior three months was 98. Although your fasting glucose measurements don't fully reflect the expected value of HbA1c, there's a simple calculation from a diabetes research journal that shows how to calculate average glucose from A1c.[^1] I used that to calculate what my estimated A1c would be for the prior three months: 5.0%
 
 # Calculated eAG from HbA1c tests
 
@@ -34,10 +34,12 @@ RequestATest actually provided the eAG for me, but I used the formula to calcula
 
 # Final Thoughts
 
-A couple final thoughts on my testing for this post.
+Here's my biggest conclusion from this simple experiment: Glucose measurements do decent job of getting an estimated A1c. I was only off by 7.4%, which is almost as good as the inter-lab variation between the home and in-lab draws (something I'll look at more next week). 
 
-1. Testing just morning glucose (not glucose and ketones, like me) would probably make it almost the same price as testing HbA1c every 3 months. This is assuming that you aren't trying to use insurance to cover either of these, which can make it nearly impossible to know which is more cost effective for you (yay for the US healthcare system, but that's a separate issue). 
-2. Fasting glucose is a nice spot check, but, for self-experimentation purposes, probably not the best metric. It's like getting the miles per gallon (or kilometers for all the rest of the world) at the end of a drive. It's valuable, but only useful for that ride and it's a retrospective view of the ride as a whole. HbA1c is more like getting the MPG after every fill up (still valuable) and continuous glucose monitoring is like getting MPG as you are driving (probably the most valuable for assessing specific actions).
-3. I debated even adding this, but since I am sure that someone will ask: **Don't follow my advice if you have any type of metabolic disorder that you are working with a clinician on.** Since I have no formal medical training, do not take this post in any way as medical advice. I'm not saying that you can stop testing your glucose regularly since you get HbA1c tests every 3 months. 
+A few final thoughts on my testing for this post.
 
-[^1]: The [article](http://care.diabetesjournals.org/content/diacare/early/2008/06/07/dc08-0545.full.pdf) gives the formula for calculating average glucose in mg/dL from A1c: $$AG = 28.7 x A1C - 46.7$$
+1. Estimating A1c from morning fasting glucose will definitely underestimate the A1c and the intraday glucose levels you've had. It's pretty basic that even if you're eating a low glycemic index diet, you will still have spikes in your glucose that you can't measure or understand by doing morning spot checks. 
+2. Fasting glucose is still a nice spot check, but, for self-experimentation purposes, probably not the best metric. It's like getting the miles per gallon (or kilometers for all the rest of the world) at the end of a drive. It's valuable, but only useful for that ride and it's a retrospective view of the ride as a whole. HbA1c is more like getting the MPG after every fill up for all the rides on that fill up (still valuable) and continuous glucose monitoring is like getting MPG as you are driving (probably the most valuable for assessing specific actions). Still looking for some way to get a prescription for a CGM device. 
+3. Testing just morning glucose (not glucose and ketones, like me) would probably make it almost the same price as testing HbA1c every 3 months, and if you're not good at shopping for test strips, A1c may actually be cheaper. This is assuming that you aren't trying to use insurance to cover either of these, which can make it nearly impossible to know which is more cost effective for you (thank you for the US healthcare system, but that's a separate issue). If I didn't care about getting daily updates so I know where to make adjustments, I would probably just get A1c every 3 months to see how things are trending.  
+
+[^1]: The [article](http://care.diabetesjournals.org/content/diacare/early/2008/06/07/dc08-0545.full.pdf) gives the formula for calculating average glucose in mg/dL from A1c: $$AG = 28.7 x A1C - 46.7$$ Solving the formula for A1C, you get: $$A1C = (AG / 28.7) + 1.63

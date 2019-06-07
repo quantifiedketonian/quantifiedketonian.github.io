@@ -6,7 +6,7 @@ posted_date: 2019-07-01 06:00:00 +0000
 
 ---
 
-Everyone believes that the new fangled home labs tests can't be as accurate as the in-lab testing. As part of my HbA1c testing for the HbA1c vs. Fasting Glucose post, I decided that I wanted to know if a one-time comparison of home HbA1c testing companies would help me understand the accuracy of the options available. So I did a quick experiment that would in no way be comparable to a scientific research project. 
+Everyone believes that the new fangled home labs tests can't be as accurate as the in-lab testing. As part of my HbA1c testing for the HbA1c vs. Fasting Glucose post, I decided that I wanted to know if a one-time comparison of home HbA1c testing companies would help me understand the accuracy of the options available. So I did a quick experiment between three services.
 
 # The Contenders
 
@@ -34,7 +34,7 @@ I performed all of the draws on the same day, which meant that I had to wait unt
 
 1. RequestATest - This was the most difficult of the three, but it was still very easy. It was a ten minute drive to the lab, a five minute wait, and a couple minutes to actually draw the blood. 
 2. EverlyWell - This was probably the easiest. The website where you activate the kit has great videos for how to do the test. I poked my finger and dropped some blood onto a little strip. Once the blood was dry, I stuck it back in the shipping bag and sent it back. 
-3. LetsGetChecked - The website was great for LetsGetChecked as well. There were lots of video tutorials as well. After poking my finger, I had drain my finger into a little tube. This took a bit of time because it was a felt like a lot of blood. After I got the blood in the tube, I put it in the shipping box and took it to UPS.
+3. LetsGetChecked - The website was great for LetsGetChecked as well. There were lots of video tutorials as well. After poking my finger, I had drain my finger into a little tube. This took a bit of time because it felt like a lot of blood. After I got the blood in the tube, I put it in the shipping box and took it to UPS.
 
 ## The Wait
 
@@ -46,12 +46,10 @@ As you might expect, since I had to ship them to a lab for processing, the two h
 
 # The Outcome
 
-Each test gave me a slightly different number as my result. All three of them were fairly close, but not equal.
+Each test gave me a slightly different number as my result. All three of them were fairly close though.
 
-1. RequestATest - 5.4
-2. EverlyWell - 5.3
-3. LetsGetChecked - 5.2
+1. RequestATest - 5.4%
+2. EverlyWell - 5.3%
+3. LetsGetChecked - 5.2%
 
-If we assume that that lab draw is the most accurate and the others should be compared to it (something that seems reasonable to most people), then EverlyWell is only 18.5% away from the "truth" and LetsGetChecked is 37% away from the truth. However, based on last week's article on HbA1c vs. morning fasting glucose, I'm not confident that we should assume that to be the case. 
-
-Also since the prices were (when I ordered them) all within $20 of each other, I'm not sure I feel a strong opinion to continue to use lab draws for this test. 
+If we assume that the lab draw is the most accurate and the others should be compared to it (something that seems reasonable to most people), then EverlyWell is only 1.9% away from the "truth" and LetsGetChecked is 3.7% away from the "truth". Even still the level of variation between the tests seems reasonable, and both at-home tests are still better than my estimated A1c based on fasting glucose (that I shared in last week's article). And since the prices were (when I ordered them) all within $20 of each other, I'm not sure I feel a strong opinion to continue to use lab draws for this test. I will probably do one more comparison between EverlyWell and RequestATest though to feel confident in the accuracy before I drop lab draws for good. The experience with LetsGetChecked was underwhelming so I don't think it will be included in the next test. 
