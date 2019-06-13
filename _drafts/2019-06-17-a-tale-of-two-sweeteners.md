@@ -7,13 +7,13 @@ posted_date: 2019-06-17 06:00:00 +0000
 ---
 # The Background:
 
-I’ve now been on the ketogenic diet for two months (with a few small upticks of carbs due to travel; it’s much harder for me to follow keto while traveling than I expected).
+I’ve now been on the ketogenic diet for a few months (with a few small upticks of carbs due to travel; it’s much harder for me to follow keto while traveling than I expected).
 
-That said, as I’ve mentioned on my about page, I started doing keto out of fear of getting diabetes. So since I’m fat adapted, I figured it was time to start doing some of the carb tolerance tests that Robb Wolf talks about in his book. As my first published experiment, I wanted to understand how two common “paleo” sweeteners affect my metabolic state.
+That said, as I’ve mentioned on my [about page](site.about), I started doing keto out of fear of getting diabetes. So since I’m fat adapted, I figured it was time to start doing some of the carb tolerance tests that Robb Wolf talks about in his book. As my first published experiment, I wanted to understand how two common “paleo” sweeteners affect my metabolic state.
 
-Honey and pure maple syrup (none of that fake crap) were staples in our home during our paleo time. My wife loves maple syrup more than anything (sometimes even more than she loves me, I think) and I used to eat spoonfuls of honey straight from the container. If it was in a squeeze container, I didn’t even use the spoon; I squeezed it directly into my mouth (no sucking on the container like they suck on the drinking fountains in Parks and Rec, that would be gross) So switching to the keto way of life was a bit harder than I expected.
+Honey and pure maple syrup (none of that fake crap) were staples in our home during our paleo time. My wife loves maple syrup more than anything (sometimes even more than she loves me, I think) and I used to eat spoonfuls of honey straight from the container. If it was in a squeeze container, I didn’t even use the spoon; I squeezed it directly into my mouth (no sucking on the container like they suck on the drinking fountains in Parks and Rec, that would be gross). So switching to the keto way of life was a bit harder than I expected.
 
-Since I have a higher than average likelihood of getting type 2 diabetes, I always worry about adding any carb-heavy substance back into my diet. So I wanted to know what would happen to my body if I brought a “non-keto” sweetener back into my life every once in a while (like when I want to make delicious keto pumpkin waffles and the artificially sweetened maple flavored water just won’t cut it).
+Since I have a higher than average likelihood of getting type 2 diabetes, I always worry about adding any carb-heavy substance back into my diet. So I wanted to know what would happen to my body if I brought a “non-keto” sweetener back into my life every once in a while (like when I want to make delicious keto pumpkin waffles and the artificially-sweetened, maple-flavored water just won’t cut it).
 
 # The Chemistry:
 
@@ -47,7 +47,7 @@ I also took some notes on my digestive and cognitive reactions. Thankfully, neit
 
 ## Honey:
 
-50 grams of honey isn’t very much because it’s so dense. Even so, since adjusting to a low-carb lifestyle, I’ve really only had a few periods of high carb intake (except for the vacations).
+50 grams of honey isn’t very much because it’s so dense. Even so, since adjusting to a low-carb lifestyle, I’ve really only had a few periods of high carb intake (the vacations).
 
 Eating that much glucose and fructose in one fell swoop was shocking to my mouth. The first thing that I noticed was a small amount of nausea (that went away in about 10 minutes). Also, the honey didn’t taste as good as I remember. It was WAY too sweet.
 
