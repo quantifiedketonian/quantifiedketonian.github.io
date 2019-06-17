@@ -2,7 +2,6 @@
 layout: page
 title: About
 sidebar_link: true
-permalink: about
 
 ---
 My name is Justin Mitchell and I'm the man behind the blog.
