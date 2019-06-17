@@ -52,7 +52,7 @@ For any experiment, you have to know how you plan to reliably measure the inputs
 
 For objective measures, like fasting glucose, it can be easier to know how to measure and what to shoot for. Confirming reliability of objective measures also involves a little bit of trust in the accuracy and precision of any device that's measuring it (something that's a bit hard for me).
 
-As I started researching the keto lifestyle, I learned pretty quickly that there were a few input metrics that you can track to ensure that you're in ketosis: net carbs, glucose levels, ketone levels, and glucose-ketone index. I knew it would be easy to track net carbs inside of Cronometer. But tracking the glucose and ketone levels were a bit harder. That required buying a device, the KetoMojo meter. The output that I wanted was a body composition improvement (not necessarily a lower weight, mostly a lower body fat percentage). My basic knowledge could be laid out with this simple chart. 
+As I started researching the keto lifestyle, I learned pretty quickly that there were a few input metrics that you can track to ensure that you're in ketosis: net carbs, glucose levels, ketone levels, and glucose-ketone index. I knew it would be easy to track net carbs inside of [Cronometer](https://shareasale.com/r.cfm?b=766203&u=2026063&m=61121&urllink=&afftrack=). But tracking the glucose and ketone levels were a bit harder. That required buying a device, the KetoMojo meter. The output that I wanted was a body composition improvement (not necessarily a lower weight, mostly a lower body fat percentage). My basic knowledge could be laid out with this simple chart. 
 
 ![Net carbs to body fat percentage]({{site.url}}/assets/images/net-carbs-to-bfp.png)
 
@@ -68,7 +68,7 @@ One of the key concerns with the third question is do you need to have a runout 
 
 1. When I started the keto diet, I knew that it takes two to six weeks to become "fat-adapted" and that I probably wouldn't be able to measure the effect of keto on my body fat percentage until at least that long. 
 2. For each of the inputs and outputs, I was not very diligent at measuring regularly, but I knew that it wouldn't be difficult. 
-	1. **Net carbs**: I set a goal to document all of my meals in Cronometer. It's hard when you are at social gatherings, but otherwise pretty simple to do a couple times every day. 
+	1. **Net carbs**: I set a goal to document all of my meals in [Cronometer](https://shareasale.com/r.cfm?b=766203&u=2026063&m=61121&urllink=&afftrack=). It's hard when you are at social gatherings, but otherwise pretty simple to do a couple times every day. 
 	2. **Glucose and ketone levels**: Now that I have a KetoMojo meter, I could track both after poking my finger once so I placed it in my bathroom and have made it part of my morning routine. 
 	3. **Body fat percentage and weight**: Thanks to having my Withings scale in the bathroom, this has been a part of my routine as well (as long as I keep it charged).
 3. I knew that the biggest confounding factor would be exercise so I made a plan to be as consistent as possible with my exercise. I also planned to get at least 2 months of data so I could actually update my beliefs about the ketogenic diet's effect on my body composition and control for weekend variables and travel.
@@ -77,7 +77,7 @@ One of the key concerns with the third question is do you need to have a runout 
 
 Once you've got your need defined and your experiment planned, you've got to run the experiment. This is probably the easiest part if you've planned well. At this point, it's just a matter of following the experiment design that you've created.
 
-For my ketogenic lifestyle experiment, I followed my protocol of getting daily measurements of glucose, ketones, body fat, and weight every morning. I was also reasonably good at getting my meal intake added to Cronometer.  
+For my ketogenic lifestyle experiment, I followed my protocol of getting daily measurements of glucose, ketones, body fat, and weight every morning. I was also reasonably good at getting my meal intake added to [Cronometer](https://shareasale.com/r.cfm?b=766203&u=2026063&m=61121&urllink=&afftrack=).  
 
 # 4. Assessing the effect
 
