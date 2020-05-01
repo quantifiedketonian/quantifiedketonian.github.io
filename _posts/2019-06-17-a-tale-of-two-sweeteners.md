@@ -91,7 +91,7 @@ However, after I reviewed this next chart, I came to a different conclusion. I l
 
 Based on these results, I have no intention of eating either of these regularly. They cause too much variation for me to feel comfortable with the effects that they have on me.
 
-[^1]: [Wikipedia](https://en.wikipedia.org/wiki/Honey#Nutrition) and [this other honey website](http://www.chm.bris.ac.uk/webprojects2001/loveridge/index-page3.html) both discuss the chemical breakdown of honey and have comparative numbers for the proportion of glucose and fructose in honey.
+[^1]: [Wikipedia](https://en.wikipedia.org/wiki/Honey#Nutrition) and [this other honey website](http://www.chm.bris.ac.uk/webprojects2001/loveridge/index-page3.html) both discuss the chemical breakdown of honey and have comparative numbers for the proportion of glucose and fructose in honey. As an added benefit, [ManyEats](https://manyeats.com/health-effects-of-honey/) also has an awesome article on with some awesome honey facts and some details on the health benefits of honey.
 
 [^2]: Both [Wikipedia](https://en.wikipedia.org/wiki/Maple_syrup#Nutrition_and_food_characteristics) and [this research article](http://www.uvm.edu/\~pmrc/Chemical%20composition%20of%20pure%20maple%20syrup%20-%20van%20den%20Berg%20et%20al%202015.pdf) discuss the levels of each kind of sugar that would be expected in pure maple syrup. Unlike the honey sources, the study shows that it is quite variable based on grade and manufacturer.
 

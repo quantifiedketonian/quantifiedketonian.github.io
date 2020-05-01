@@ -14,15 +14,13 @@ Thankfully, I was tracking quite a few things back then as well so I can pretty 
 
 | Metric | "Old" Me | "New" Me | 
 | :---: | :---: | :---: |
-| Average Sleep Time | | |
+| Average Sleep Time[^1] |  |  |
 | # of Kids | 2 | 3 |
-| Bike Commuting Likelihood on Any Day | | |
+| Bike Commuting Likelihood on Any Day | 42% |  |
 | Average "Steps"[^1] |  |  |
-| Average Heart Rate[^2] | | | 
 
 # Old Glucose vs New Glucose
 
 
 
-[^1]: I'm not big into trusting that the steps that are calculated by one of those wrist-worn devices (Fitbit, Withings, etc.) are actually correct; I've seen too much research that makes me believe they're inconsistent at best. However, I have found that they do a decent job of helping me understand relative activity levels. Like glucose meters though, I have changed devices since then: Misfit/Basis vs. Withings
-[^2]: I'm
+[^1]: I'm not big into trusting that the steps or the sleep calculated by one of those wrist-worn devices (Misfit, Withings, etc.) are completely accurate; I've seen too much research that makes me believe they're slightly off at best. However, I have found that they do a decent job of helping me understand relative activity and relative sleep levels. Like glucose meters though, I have changed devices since then: Misfit vs. Withings.

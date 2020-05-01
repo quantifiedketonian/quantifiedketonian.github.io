@@ -41,7 +41,7 @@ I performed all of the draws on the same day, which meant that I had to wait unt
 As you might expect, since I had to ship them to a lab for processing, the two home-based tests took the longest time.
 
 1. RequestATest - This result was the quickest of the three. 
-2. EverlyWell - This test had the least amount of updates on the shipping back. I didn't hear anything until it arrived at the lab (which took XXXX days). However, once I arrived it was processed in less than 24 hours.
+2. EverlyWell - This test had the least amount of updates on the shipping back. I didn't hear anything until it arrived at the lab (which took XXXX days). However, once its arrived it was processed in less than 24 hours.
 3. LetsGetChecked - This test was the slowest. It arrived at the lab very quickly, but I didn't hear anything until almost ten days later after I sent an email asking where my result was. At that point, I received a phone call from a nurse within a few hours and was given an explanation about my result. 
 
 # The Outcome
